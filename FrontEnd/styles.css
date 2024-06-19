@@ -1,0 +1,19 @@
+body {
+    background-image: url('/Front_end/images/Background_Image.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Ensure full viewport height */
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+}
+
+#qrCodeContainer {
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#box{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
